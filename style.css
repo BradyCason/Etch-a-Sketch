@@ -1,0 +1,19 @@
+.grid{
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 700px;
+    text-align: center;
+}
+
+.buttonDiv{
+    margin-top: 10px;
+    text-align: center;
+}
+
+body{
+    margin: 0px;
+}
